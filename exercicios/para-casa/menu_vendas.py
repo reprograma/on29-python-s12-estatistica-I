@@ -94,6 +94,8 @@ while True:
     print("3. Mínimo valor de vendas")
     print("4. Máximo valor de vendas")
     print("5. Desvio padrão dos valores das vendas")
+    print("6. Exibir Gráfico vendas por Região")
+    print("7. Exibir Gráfico total de vendas por produto e método de pagamento")
     print("0. Para sair do programa")
 
     opt = input('Digite a opão desejada: ')
