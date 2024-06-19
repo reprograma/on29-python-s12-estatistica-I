@@ -1,0 +1,7 @@
+a analise que eu fiz foi a seguinte:
+media = 100
+variancia = 780
+desvio = 27.9
+mediana = 100
+moda = 100
+analisando o histograma cheguei a conclusao de que o produto mais vendido foi o de valor 100, que foi vendido 3 vezes a mais que os outros.
