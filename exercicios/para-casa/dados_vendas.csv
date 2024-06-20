@@ -1,0 +1,11 @@
+,Data da venda,Valor da venda,Produto vendido,Quantidade vendida,Método de pagamento,Região de venda
+0,2023-01-01,100.0,Produto A,2,Cartão,Centro
+1,2023-01-02,50.0,Produto B,1,Dinheiro,Sul
+2,2023-01-03,120.0,Produto C,3,Cartão,Norte
+3,2023-01-04,80.0,Produto A,2,PIX,Leste
+4,2023-01-05,150.0,Produto B,2,Cartão,Oeste
+5,2023-01-06,70.0,Produto C,1,Dinheiro,Centro
+6,2023-01-07,90.0,Produto A,2,PIX,Sul
+7,2023-01-08,110.0,Produto B,3,Cartão,Norte
+8,2023-01-09,130.0,Produto C,2,Dinheiro,Leste
+9,2023-01-10,100.0,Produto A,1,Cartão,Oeste
