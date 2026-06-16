@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
+  <img style="background: white;width: 30%" src="assets/reprograma-fundos-claros.png" alt="logo reprograma" width="500">
 </h1>
 
 # Reprograma | Bootcamp de Análise de Dados
-## 🚀 Exercícios para Casa 
+## 🚀 Exercícios
 Turma Online on29 | Semana 12 | 2024 | Professora Camila Ribeiro
 
 Este repositório contém os exercícios desenvolvidos durante a **Semana 12** do curso de Análise de Dados da turma Online On29 da Reprograma. Os desafios foram realizados para consolidar os conhecimentos adquiridos em aula.  
